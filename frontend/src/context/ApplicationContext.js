@@ -1,3 +1,4 @@
+// updated [frontend/src/context/ApplicationContext.js]
 import { createContext, useContext, useState, useCallback } from 'react';
 import { applicationService } from '../services/service';
 import toast from 'react-hot-toast';

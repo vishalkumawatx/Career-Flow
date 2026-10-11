@@ -1,3 +1,4 @@
+// updated [frontend/src/services/service.js]
 import api from './api';
 
 // Auth services

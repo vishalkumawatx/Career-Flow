@@ -1,3 +1,4 @@
+// updated [frontend/src/components/ApplicationForm.js]
 import React, { useState, useEffect } from 'react';
 import { statusOptions, jobTypeOptions } from '../utils/helpers';
 import { X } from 'lucide-react';

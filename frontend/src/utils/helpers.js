@@ -1,3 +1,4 @@
+// updated [frontend/src/utils/helpers.js]
 import { formatDistanceToNow, isPast } from 'date-fns';
 
 export const formatDeadline = (date) => {

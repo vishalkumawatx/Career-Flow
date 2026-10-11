@@ -1,3 +1,4 @@
+// updated [frontend/postcss.config.js]
 module.exports = {
   plugins: [
     require('tailwindcss'),

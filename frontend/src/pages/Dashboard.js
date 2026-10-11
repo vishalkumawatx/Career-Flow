@@ -1,3 +1,4 @@
+// updated [frontend/src/pages/Dashboard.js]
 import React, { useEffect } from 'react';
 import { useApplications } from '../context/ApplicationContext';
 import { getStatusColor } from '../utils/helpers';
