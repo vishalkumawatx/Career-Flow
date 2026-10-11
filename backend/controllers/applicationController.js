@@ -1,3 +1,4 @@
+// updated [backend/controllers/applicationController.js]
 const Application = require('../models/Application');
 const ErrorHandler = require('../utils/errorHandler');
 

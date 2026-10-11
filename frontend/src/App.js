@@ -1,3 +1,4 @@
+// updated [frontend/src/App.js]
 import React, { useState, useEffect } from 'react';
 import { useAuth } from './context/AuthContext';
 import { AuthProvider } from './context/AuthContext';

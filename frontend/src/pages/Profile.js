@@ -1,3 +1,4 @@
+// updated [frontend/src/pages/Profile.js]
 import React, { useState } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { Mail, Lock, Eye, EyeOff } from 'lucide-react';

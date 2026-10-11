@@ -1,0 +1,15 @@
+github-comment-updater manifest v1
+Listed paths: original contents were not changed.
+Paths are JSON-quoted; reasons describe conservative exclusions.
+".gitignore"	unsupported format
+"README.md"	unsupported format
+"backend/.env.example"	unsupported format
+"backend/.gitignore"	unsupported format
+"backend/package.json"	unsupported format
+"frontend/.env.example"	unsupported format
+"frontend/.gitignore"	unsupported format
+"frontend/package.json"	unsupported format
+"frontend/public/index.html"	unsupported format
+"frontend/src/App.css"	unsupported format
+"frontend/src/index.css"	unsupported format
+"package.json"	unsupported format

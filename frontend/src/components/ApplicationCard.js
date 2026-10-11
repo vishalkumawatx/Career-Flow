@@ -1,3 +1,4 @@
+// updated [frontend/src/components/ApplicationCard.js]
 import React from 'react';
 import { getStatusColor, formatDeadline } from '../utils/helpers';
 import { Trash2, Edit2, Calendar } from 'lucide-react';

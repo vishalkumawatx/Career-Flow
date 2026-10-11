@@ -1,3 +1,4 @@
+// updated [frontend/src/pages/Applications.js]
 import React, { useState } from 'react';
 import { useApplications } from '../context/ApplicationContext';
 import ApplicationCard from '../components/ApplicationCard.js';

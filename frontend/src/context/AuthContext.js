@@ -1,3 +1,4 @@
+// updated [frontend/src/context/AuthContext.js]
 import { createContext, useContext, useState, useEffect } from 'react';
 import { authService } from '../services/service';
 import toast from 'react-hot-toast';

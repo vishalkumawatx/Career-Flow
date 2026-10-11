@@ -1,3 +1,4 @@
+// updated [frontend/src/components/Navbar.js]
 import React, { useState } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { Sun, Moon, LogOut, User, Settings } from 'lucide-react';
